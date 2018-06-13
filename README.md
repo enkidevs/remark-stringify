@@ -10,7 +10,7 @@ markdown is compiled.
 [npm][]:
 
 ```sh
-npm install remark-stringify
+npm install @teamenki/remark-stringify
 ```
 
 ## Usage
@@ -57,6 +57,12 @@ to markdown.
 ##### `options`
 
 Options are passed directly, or passed later through [`processor.data()`][data].
+
+###### `options.escape`
+
+Stringify with escaping options presented bellow. (`boolean`, default: `true`)
+
+If `false` is passed, no escaping is done.
 
 ###### `options.gfm`
 
