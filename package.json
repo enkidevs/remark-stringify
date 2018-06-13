@@ -11,6 +11,9 @@
     "ast",
     "stringify"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "http://remark.js.org",
   "repository": "https://github.com/sagelabs/remark-stringify",
   "bugs": "https://github.com/sagelabs/remark-stringify/issues",
