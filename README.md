@@ -58,9 +58,11 @@ to markdown.
 
 Options are passed directly, or passed later through [`processor.data()`][data].
 
-###### `options.unescape`
+###### `options.escape`
 
-Stringify without any special character escaping (`boolean`, default: `false`)
+Stringify with escaping options presented bellow. (`boolean`, default: `true`)
+
+If `false` is passed, no escaping is done.
 
 ###### `options.gfm`
 
