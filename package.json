@@ -1,6 +1,6 @@
 {
-  "name": "@teamenki/remark-stringify",
-  "version": "5.1.0",
+  "name": "@enkidevs/remark-stringify",
+  "version": "5.1.1",
   "description": "Markdown compiler for remark",
   "license": "MIT",
   "keywords": [
