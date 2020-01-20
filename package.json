@@ -35,7 +35,7 @@
     "markdown-escapes": "^1.0.0",
     "markdown-table": "^1.1.0",
     "mdast-util-compact": "^1.0.0",
-    "parse-entities": "^1.0.2",
+    "parse-entities": "^2.0.0",
     "repeat-string": "^1.5.4",
     "state-toggle": "^1.0.0",
     "stringify-entities": "^1.0.1",
